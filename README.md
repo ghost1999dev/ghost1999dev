@@ -40,18 +40,30 @@ Hablando acerca de mi :
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
-const Fernando = {
+const anmol = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
+        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", ""]
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
         },
-        backEnd: ["Java", "PHP","NodeJS","Laravel"],
-        databases: ["MySql", "MongoDB","PostgresSQL"],
-    }
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
