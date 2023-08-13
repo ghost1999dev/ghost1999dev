@@ -17,6 +17,20 @@
 
 ![head.png](https://github.com/ghost1999dev/ghost1999dev/assets/62911105/d9ea7557-ba6b-46a1-ac39-dac4b9443191)
 
+Hi there, I'm Mehdi Mabrouki, a Kaggle Competitions Expert ( Ranked Top 1% Worldwide 🌍 ) and a Software Engineering student 🚀 from Tunisia. Currently, I'm a Community Team Member 🙍🏽‍♂️ @CallmeMehdi, Kaggler 👨🏽‍💻 @Kaggle, and an Artificial Intelligence intern 👨🏽‍💼.
+
+GIF
+
+Talking about Personal Stuffs:
+
+👨🏽‍💻 I’m currently an Artificial Intelligence intern with Vneuron working on NLP/NLU projects;
+🌱 I’m currently learning Deep Reinforcement Learning;
+🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+💼 I’m pursuing a Bachelor's degree in Software Engineering;
+💬 Ask me about anything, I am happy to help;
+📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
+📝 See my Curriculum Vitae to get more info.
+
 **Lenguajes y herramientas**  
 
 
