@@ -14,19 +14,20 @@
 
 <br />
 <br />
+Hola, soy Fernando un experto en desarrollo de software especializado en Backend y Frontend🌍 y soy estudiante de Ingenieria en Desarrollo de Software🚀 y soy de San Miguel, El Salvador actualmento soy miembro del equipo de la comunidad de Google Developers y trabajo en la empresa de desarrollo EZ Marketing 👨🏽‍💼.
+
 
 ![head.png](https://github.com/ghost1999dev/ghost1999dev/assets/62911105/d9ea7557-ba6b-46a1-ac39-dac4b9443191)
 
-Hi there, I'm Mehdi Mabrouki, a Kaggle Competitions Expert ( Ranked Top 1% Worldwide 🌍 ) and a Software Engineering student 🚀 from Tunisia. Currently, I'm a Community Team Member 🙍🏽‍♂️ @CallmeMehdi, Kaggler 👨🏽‍💻 @Kaggle, and an Artificial Intelligence intern 👨🏽‍💼.
 
-GIF
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Talking about Personal Stuffs:
+Hablando acerca de mi :
 
-👨🏽‍💻 I’m currently an Artificial Intelligence intern with Vneuron working on NLP/NLU projects;
-🌱 I’m currently learning Deep Reinforcement Learning;
-🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-💼 I’m pursuing a Bachelor's degree in Software Engineering;
+👨🏽‍💻 Actualmente trabajo en el area de desarrollo de software en los lenguajes AngularJS;
+🌱 Actualmente estoy aprendiendo Typescript y Flutter;
+🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
+💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
 💬 Ask me about anything, I am happy to help;
 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
 📝 See my Curriculum Vitae to get more info.
