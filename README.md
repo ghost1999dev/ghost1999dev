@@ -24,13 +24,13 @@ Hola, soy Fernando un experto en desarrollo de software especializado en Backend
 
 Hablando acerca de mi :
 
-👨🏽‍💻 Actualmente trabajo en el area de desarrollo de software en los lenguajes AngularJS;
-🌱 Actualmente estoy aprendiendo Typescript y Flutter;
-🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
-💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
-💬 Ask me about anything, I am happy to help;
-📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-📝 See my Curriculum Vitae to get more info.
+- 👨🏽‍💻 Actualmente trabajo en el area de desarrollo de software en los lenguajes AngularJS;
+- 🌱 Actualmente estoy aprendiendo Typescript y Flutter;
+- 🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
+- 💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
+- 📝 See my Curriculum Vitae to get more info.
 
 **Lenguajes y herramientas**  
 
