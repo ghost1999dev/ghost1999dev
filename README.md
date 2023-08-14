@@ -44,11 +44,11 @@ Hablando acerca de mi :
 
 ```javascript
 const mySkills = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    pronouns: "FernandoX_0" | "Fer",
+    code: ["Javascript", "Typescript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App","Java","Flutter"],
         frontEnd: {
             js: ["Vue", "Nuxt","React JS"],
             css: ["vuetify", "bootstrap"]
