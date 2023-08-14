@@ -64,4 +64,5 @@ const anmol = {
     proyectosActuales: "FlutterDelivery , Aplicacion web bodegas, Paginas web AngularJS, TiendaVirtual AngularJS"
 };
 ```
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 
