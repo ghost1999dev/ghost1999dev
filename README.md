@@ -20,7 +20,7 @@ Hablando acerca de mi :
 - 🌱 Actualmente estoy aprendiendo Typescript y Flutter;
 - 🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
 - 💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Preguntame lo que quieras y te ayudare;
 - 📫 Este es mi correo electronico blancogonzalezfernandoalexis en donde me pueden buscar.
 
 
