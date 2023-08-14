@@ -21,8 +21,8 @@ Hablando acerca de mi :
 - 🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
 - 💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my Curriculum Vitae to get more info.
+- 📫 Este es mi correo electronico blancogonzalezfernandoalexis en donde me pueden buscar.
+
 
 **Lenguajes y herramientas**  
 
@@ -43,7 +43,7 @@ Hablando acerca de mi :
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
 ```javascript
-const anmol = {
+const mySkills = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev"],
