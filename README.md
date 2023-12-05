@@ -13,7 +13,7 @@ ___________                                    .___           .___
 
 ```
 <br>
-Hola, soy Fernando un experto en desarrollo de software especializado en Backend y Frontend🌍 y soy estudiante de Ingenieria en Desarrollo de Software🚀 y soy de San Miguel, El Salvador actualmento soy miembro del equipo de la comunidad de Google Developers y trabajo en la empresa de desarrollo EZ Marketing 👨🏽‍💼.
+Hola, soy Fernando un experto en desarrollo de software especializado en Backend y Frontend🌍 y soy estudiante de Ingenieria en Desarrollo de Software🚀soy de San Miguel, El Salvador actualmento soy miembro del equipo de la comunidad de Google Developers  👨🏽‍💼.
 <br>
 
 
@@ -52,7 +52,7 @@ Hablando acerca de mi :
 ```javascript
 const mySkills = {
     pronouns: "FernandoX_0" | "Fer",
-    code: ["Javascript", "Typescript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Typescript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         mobileApp: ["Android App","Java","Flutter"],
@@ -67,7 +67,7 @@ const mySkills = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO"", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+   
     proyectosActuales: "FlutterDelivery , Aplicacion web bodegas, Paginas web AngularJS, TiendaVirtual AngularJS"
 };
 ```
