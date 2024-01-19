@@ -13,7 +13,7 @@ ___________                                    .___           .___
 
 ```
 <br>
-Hola, soy Fernando un experto en desarrollo de software especializado en Backend y Frontend🌍 y soy estudiante de Ingenieria en Desarrollo de Software🚀soy de San Miguel, El Salvador actualmento soy miembro del equipo de la comunidad de Google Developers  👨🏽‍💼.
+Hola, soy Fernando un experto en desarrollo de software especializado en Backend y Frontend🌍 y soy estudiante de Ingenieria en Desarrollo de Software🚀soy de San Miguel, El Salvador actualmente soy miembro del equipo de la comunidad de Google Developers.
 <br>
 
 
@@ -23,12 +23,12 @@ Hola, soy Fernando un experto en desarrollo de software especializado en Backend
 
 Hablando acerca de mi :
 
-- 👨🏽‍💻 Actualmente trabajo en el area de desarrollo de software en los lenguajes AngularJS;
+- 👨🏽‍💻 Actualmente trabajo en el area de desarrollo de software en los lenguajes ReactJS, Express, Flutter(Dart);
 - 🌱 Actualmente estoy aprendiendo Typescript y Flutter;
 - 🤔 Me interesa bastante desarrollar en lenguajes del lado del servidor y el diseño de software;
 - 💼 Actualmente estoy estudiando Ingenieria en Desarrollo de Software en la Universidad de Oriente;
 - 💬 Preguntame lo que quieras y te ayudare;
-- 📫 Este es mi correo electronico blancogonzalezfernandoalexis en donde me pueden buscar.
+- 📫 Este es mi correo electronico blancogonzalezfernandoalexis@gmail.com en donde me pueden buscar.
 
 
 **Lenguajes y herramientas**  
@@ -65,10 +65,10 @@ const mySkills = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"", "php"]
+        misc: ["Firebase", "Socket.IO"", "PHP"]
     },
    
-    proyectosActuales: "FlutterDelivery , Aplicacion web bodegas, Paginas web AngularJS, TiendaVirtual AngularJS"
+    proyectosActuales: "FlutterDelivery , Aplicacion web bodegas, Aplicaciones de compras de productos"
 };
 ```
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
